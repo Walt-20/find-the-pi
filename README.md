@@ -1,4 +1,6 @@
-[![Build Status](http://ec2-44-216-95-110.compute-1.amazonaws.com/buildStatus/icon?job=find-the-pi)](http://ec2-44-216-95-110.compute-1.amazonaws.com/job/find-the-pi/) # find-the-pi
+[![Build Status](http://ec2-44-216-95-110.compute-1.amazonaws.com/buildStatus/icon?job=find-the-pi)](http://ec2-44-216-95-110.compute-1.amazonaws.com/job/find-the-pi/) 
+
+# find-the-pi
 linkedin learning challenge
 
 # 03_05 Challenge Connect Jenkins to GitHub
